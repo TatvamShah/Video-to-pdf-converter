@@ -1,4 +1,3 @@
-
 import numpy as np # type: ignore
 import cv2 as cv # type: ignore
 import matplotlib.pyplot as plt  # type: ignore
